@@ -1,5 +1,7 @@
 # Readme
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/faad3567-92c5-422f-b94d-a98e5ddc1fd7.svg?orgId=288883884012)](https://app.soluble.cloud/repos/details/github.com/dasalebr/qsk-book?orgId=288883884012)  
+
 ## Quick Start Kubernetes (book)
 
 Node.js web app for use with [Quick Start Kubernetes](https://leanpub.com/quickstartkubernetes) book.
